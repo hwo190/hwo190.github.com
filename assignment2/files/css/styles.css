@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+}
+
+body, html {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.whole {
+	width: 1400px;
+	height: 1400px;
+	margin: 0 auto;
+}
+
+.Header {
+	width: 1400px;
+	height: 220px;
+}
+
+.logo {
+	float: left;
+	padding-top: 20px;
+	padding-right:30px;
+}
+
+.Header h1 {
+	font-size: 30px;
+	font-family: "alternate-gothic-no-3-d";
+	font-weight: 400;
+	text-align: left;
+	padding-top: 110px;
+	margin: 0 auto;
+}
+
+.toptype {
+	display: inline;
+	vertical-align: top;
+	line-height: 28px;
+}
+
+.nav {
+	text-align: right;
+	padding-right: 190px;
+}
+
+.nav ul {
+	list-style-type: none;
+}
+
+.nav ul li {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0 25px 0 25px;
+  	display: inline-block;
+  	color: #000000;
+}
+
+
+
+.mainimg {
+	width: 1400px;
+	height: 960px;
+}
+
+/*#photo {
+	position: center;
+}*/
+
+.footer {
+	width: 1400px;
+	height: 260px;
+	text-align: left;
+}
+
+.footer p {
+	padding-top: 110px;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: normal;
+}
+
+.footer h1 {
+	text-align: right;
+	font-family: helvetica, arial, sans-serif;
+	padding-right: 230px;
+	}
+
+.social {
+	float: right;
+	text-align: right;
+	display: inline-block;
+	padding-right: 220px;
+	height: 140px;
+	
+}
