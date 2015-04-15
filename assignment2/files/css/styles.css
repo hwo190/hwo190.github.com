@@ -25,13 +25,21 @@ body, html {
 	padding-right:30px;
 }
 
-.Header h1 {
+.logo img{
+	float:left;
+}
+
+
+h1 {
 	font-size: 30px;
-	font-family: "alternate-gothic-no-3-d";
+	font-family: "alternate-gothic-no-3-d", helvetica, arial, sans-serif;
 	font-weight: 400;
 	text-align: left;
-	padding-top: 110px;
-	margin: 0 auto;
+	float:left;
+	line-height: 190px;
+	margin-left: 40px;
+	text-transform: uppercase; 
+
 }
 
 .toptype {
@@ -50,12 +58,14 @@ body, html {
 }
 
 .nav ul li {
-	font-family: helvetica, arial, sans-serif;
+	font-family: "alternate-gothic-no-3-d", helvetica, arial, sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	margin: 0 25px 0 25px;
   	display: inline-block;
   	color: #000000;
+  	line-height: 220px;
+  	text-transform: uppercase;
 }
 
 
@@ -81,9 +91,9 @@ body, html {
 	font-weight: normal;
 }
 
-.footer h1 {
+h2 {
 	text-align: right;
-	font-family: "alternate-gothic-no-3-d";
+	font-family: "alternate-gothic-no-3-d", helvetica, arial, sans-serif;
 	padding-right: 230px;
 	}
 
