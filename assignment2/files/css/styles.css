@@ -74,7 +74,9 @@ a, a:visited {
   cursor: pointer !important;
 } 
 
-
+a:hover {
+  color: #df3b4d;
+}
 
 .mainimg {
 	width: 1400px;
