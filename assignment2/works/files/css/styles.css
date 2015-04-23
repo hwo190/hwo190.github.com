@@ -78,9 +78,10 @@ a:hover {
   color: #df3b4d;
 }
 
-.mainimg {
-	width: 1400px;
-	height: 960px;
+.content {
+  width: 940px;
+  background: #ffffff;
+  margin: 50px auto 0 auto;
 }
 
 /*#photo {
