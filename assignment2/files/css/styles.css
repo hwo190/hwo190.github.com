@@ -79,6 +79,7 @@ a:hover {
 .mainimg {
 	width: 980px;
 	height: 960px;
+	margin: 0 auto;
 }
 
 /*#photo {
