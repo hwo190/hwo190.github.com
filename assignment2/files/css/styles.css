@@ -185,4 +185,8 @@ a:nth-child(3n+3) .project {
 	width:100%;
 }
 
+.contact p {
+	font-family: arial, helvetica, sans-serif;
+	text-align: right;
+}
 
