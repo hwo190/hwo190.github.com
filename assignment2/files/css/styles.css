@@ -193,7 +193,7 @@ a:nth-child(3n+3) .project {
 
 .resume img {
 	width:100%;
-	float: right;
+	padding-left: 100px;
 }
 
 
