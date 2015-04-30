@@ -193,6 +193,7 @@ a:nth-child(3n+3) .project {
 
 .contact img {
 	width:100%;
+	text-align: right;
 }
 
 
