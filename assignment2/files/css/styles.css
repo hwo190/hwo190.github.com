@@ -180,7 +180,8 @@ a:nth-child(3n+3) .project {
 /* about */
 
 .info img {
-	width: 50%;
+	width: 470px;
+	height: 470px;
 }
 
 .info p {
