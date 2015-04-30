@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	$('.popup').magnificPopup({
-		type: 'ajax'
+		type: 'ajax',
 		alignTop: true,
 		overflowY: 'scroll'
 	});
