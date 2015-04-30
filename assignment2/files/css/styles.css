@@ -179,14 +179,20 @@ a:nth-child(3n+3) .project {
 }
 /* about */
 
+.info img {
+	width: 50%;
+}
+
+.info p {
+	font-family: arial, helvetica, sans-serif;
+	text-align
+}
+
 /* contact*/
 
-.info img {
-	width:50%;
+.contact img {
+	width:100%;
 }
 
-p {
-	font-family: arial, helvetica, sans-serif;
-	text-align: right;
-}
+
 
