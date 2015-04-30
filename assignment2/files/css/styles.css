@@ -153,13 +153,7 @@ a:nth-child(3n+3) .project {
 	margin-right:0;
 }
 
-h3 {
-	font-family: arial, helvetica, sans-serif;
-}
 
-p {
-	font-family: arial, helvetica, sans-serif;
-}
 
 /*projects*/
 
@@ -174,6 +168,14 @@ p {
  .lightbox img {
  	width: 100%;
  }
+
+.lightbox h3 {
+	font-family: arial, helvetica, sans-serif;
+}
+
+.lightbox p {
+	font-family: arial, helvetica, sans-serif;
+}
 /* about */
 
 /* contact*/
