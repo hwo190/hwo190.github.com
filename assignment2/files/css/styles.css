@@ -159,7 +159,9 @@ a:nth-child(3n+3) .project {
 .lightbox {
 	width: 940px;
   	background: #ffffff;
-  	padding: 50px;
+  	padding: 50px;  
+  	margin: 0 auto;
+  	position: relative;
   }
 
  .lightbox img {
