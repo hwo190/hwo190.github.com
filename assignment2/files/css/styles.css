@@ -171,6 +171,7 @@ a:nth-child(3n+3) .project {
 
 .lightbox h3 {
 	font-family: arial, helvetica, sans-serif;
+	padding-bottom: 5px;
 }
 
 .lightbox p {
