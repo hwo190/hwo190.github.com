@@ -82,6 +82,10 @@ a:hover {
 	margin: 0 auto;
 }
 
+.mainimg img {
+	width: 100%;
+}
+
 /*#photo {
 	position: center;
 }*/
