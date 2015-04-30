@@ -167,7 +167,6 @@ a:nth-child(3n+3) .project {
 
  .lightbox img {
  	width: 100%;
- 	padding-left: 100px;
  }
 
 .lightbox h3 {
@@ -187,7 +186,7 @@ a:nth-child(3n+3) .project {
 .info p {
 	font-family: arial, helvetica, sans-serif;
 	text-align: right;
-
+	float: right;
 }
 
 /* contact*/
