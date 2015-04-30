@@ -167,7 +167,7 @@ a:nth-child(3n+3) .project {
 
  .lightbox img {
  	width: 100%;
- 	text-align: right;
+ 	padding-left: 100px;
  }
 
 .lightbox h3 {
