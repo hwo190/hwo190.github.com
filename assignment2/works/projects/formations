@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+	<html>
+		<head>
+			<title>Assignment 2 | Howard W. Ott</title>
+
+			<link type="text/css" rel="stylesheet" href="../files/css/styles.css"/>
+
+			<script src="//use.typekit.net/lyj4ghq.js"></script>
+			<script>try{Typekit.load();}catch(e){}</script>
+		</head>
+
+		<body>
+
+		<div class="lightbox">
+			<h3>Formations Typeface</h3>
+			<p>Structural header-style typeface that gives a subject strength and boldness.</p>
+			<img src="projects/images/formations/formations.jpg">
+		</div>
+		
+		
+
+	</body>
+	</html>
