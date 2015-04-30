@@ -153,5 +153,18 @@ a:nth-child(3n+3) .project {
 	margin-right:0;
 }
 
+
+/*projects*/
+
+.lightbox {
+	width: 940px;
+  	background: #ffffff;
+  	padding: 50px;
+  }
+
+ .lightbox img {
+ 	width: 100%;
+ }
 /* about */
+
 
