@@ -184,7 +184,7 @@ a:nth-child(3n+3) .project {
 }
 
 .info p {
-	width: 500px;
+	width: 300px;
 	font-family: arial, helvetica, sans-serif;
 	text-align: right;
 	float: right;
